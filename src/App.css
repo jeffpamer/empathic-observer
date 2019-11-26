@@ -1,12 +1,3 @@
-* {
-  box-sizing: border-box;
-}
-
-body, html {
-  padding: 0;
-  margin: 0;
-}
-
 .App {
   position: absolute;
   top: 0;
